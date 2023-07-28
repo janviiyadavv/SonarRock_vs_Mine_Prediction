@@ -1,4 +1,4 @@
-# SonarRockMinePrediction
+# SonarRock_vs_Mine_Prediction
 # WORKFLOW
 ![WorkFlow](https://github.com/CatalystsReachOut/SonarRockMinePrediction/blob/master/Screenshot%202022-09-02%20at%2002.00.34.png)<br>
 ## Collect Sonar Data 
